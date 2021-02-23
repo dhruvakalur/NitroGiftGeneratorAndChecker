@@ -30,7 +30,7 @@ time.sleep(0.3)
 print("https://github.com/Zafros56   \n")
 time.sleep(0.2)
 
-num=input('Input How Many Codes to Generate and Check: ')
+num=input('939')
 
 f=open("Nitro Codes.txt","w", encoding='utf-8')
 
